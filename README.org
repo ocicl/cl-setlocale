@@ -1,0 +1,10 @@
+* cl-setlocale
+
+A wrapper around setlocale(3) for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cl-setlocale.git   |
+| commit  | f660d07  |
+| systems | cl-setlocale |
+|---------+-------------------------------------------|
+
