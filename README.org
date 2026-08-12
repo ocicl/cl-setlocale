@@ -8,4 +8,4 @@ A wrapper around setlocale(3) for Common Lisp
 | systems | cl-setlocale |
 |---------+-------------------------------------------|
 
- 
+  
